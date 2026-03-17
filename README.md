@@ -68,3 +68,10 @@ Structuring data stories for non‑technical audiences
 
 <img width="647" height="321" alt="image" src="https://github.com/user-attachments/assets/30c525a0-63f2-40aa-98fe-af7266b5f764" />
 
+[Financial Report](https://app.powerbi.com/groups/me/reports/8dc4c45e-cae0-4aa7-bec3-cd7b510f7597/c9f82f224aeac42e96d2?experience=power-bi)
+
+<img width="628" height="368" alt="image" src="https://github.com/user-attachments/assets/1e264471-62cc-4437-9df0-d9b66cefde37" />
+
+[World Shipping](https://app.powerbi.com/groups/me/reports/55b5f083-f3fa-4440-b0ce-a9c092358453/29c6f3301060c9ae0580?experience=power-bi)
+
+<img width="636" height="366" alt="image" src="https://github.com/user-attachments/assets/ac5017dd-b0ca-4354-8f88-dc9257fea822" />

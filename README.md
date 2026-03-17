@@ -64,7 +64,4 @@ Structuring data stories for non‑technical audiences
 
 📁 Project Contents
 
-Power BI Desktop (.pbix) report
-Source data files
-Documentation explaining the data model and calculations
-Screenshots of the published dashboard (Power BI Service)
+[World Health Insights](https://public.tableau.com/app/profile/jonathan.edward.hall/viz/JonsGlobalHealthInsights/Dashboard1 )

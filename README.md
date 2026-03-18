@@ -65,7 +65,7 @@ Structuring data stories for non‑technical audiences
 📁 Project Contents
 
 
-[Financial Report](https://app.powerbi.com/groups/me/reports/8dc4c45e-cae0-4aa7-bec3-cd7b510f7597/c9f82f224aeac42e96d2?experience=power-bi)
+[Financial Report](https://app.powerbi.com/view?r=eyJrIjoiN2ZhYmY2MzgtNTZmMy00NzI3LTg5NDUtMjBhYjIwMGFmMzk5IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 <img width="628" height="368" alt="image" src="https://github.com/user-attachments/assets/1e264471-62cc-4437-9df0-d9b66cefde37" />
 

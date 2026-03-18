@@ -64,9 +64,6 @@ Structuring data stories for non‑technical audiences
 
 📁 Project Contents
 
-[World Health Insights](https://public.tableau.com/app/profile/jonathan.edward.hall/viz/JonsGlobalHealthInsights/Dashboard1 )
-
-<img width="647" height="321" alt="image" src="https://github.com/user-attachments/assets/30c525a0-63f2-40aa-98fe-af7266b5f764" />
 
 [Financial Report](https://app.powerbi.com/groups/me/reports/8dc4c45e-cae0-4aa7-bec3-cd7b510f7597/c9f82f224aeac42e96d2?experience=power-bi)
 
